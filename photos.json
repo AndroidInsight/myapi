@@ -13,7 +13,6 @@
 	},
 	{
 		"title": "3",
-		
 		"url": "https://images.unsplash.com/photo-1564415637254-92c66292cd64?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
 		"thumbnailUrl": "https://images.unsplash.com/photo-1564415637254-92c66292cd64?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80"
 	
@@ -34,31 +33,27 @@
 	},
 	{
 		"title": "6",
-		
 		"url": "https://images.unsplash.com/photo-1511677254207-d2db235ccfe1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
 		"thumbnailUrl": "https://images.unsplash.com/photo-1511677254207-d2db235ccfe1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
 		
 	},
 	{
 		"title": "7",
-		
 		"url": "https://images.unsplash.com/photo-1629795373619-aa0c3539cc6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
 		"thumbnailUrl": "https://images.unsplash.com/photo-1629795373619-aa0c3539cc6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
 	
 	},
 	{
 		"title": "8",
-		
 		"url": "https://images.unsplash.com/photo-1616484155880-70e4fa69c048?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=346&q=80",
 		"thumbnailUrl": "https://images.unsplash.com/photo-1616484155880-70e4fa69c048?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=346&q=80"
 		
 	},
 	{
 		"title": "9",
-		"author": "wallsplash",
 		"url": "https://images.unsplash.com/photo-1617727347181-6be236edc8a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-		"thumbnailUrl": "https://images.unsplash.com/photo-1617727347181-6be236edc8a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-                "collections": "Unknown"
+		"thumbnailUrl": "https://images.unsplash.com/photo-1617727347181-6be236edc8a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+               
 	},
 	{
 		"title": "10",

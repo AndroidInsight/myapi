@@ -2,7 +2,7 @@
  {
  
  "url": "https://raw.githubusercontent.com/AndroidInsight/myapi_files/main/20211031_101015.jpg",
- "thumbnailUrl": "https://raw.githubusercontent.com/AndroidInsight/myapi_files/main/20211031_101015.jpg",
+ "thumbnailUrl": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_09.jpg",
  "title": "Scenery 1",
  "category": "Scenery",
  "author": "Sarthak Patil"
@@ -12,7 +12,7 @@
 		"author": "Unsplash",
 	       
 		"url": "https://raw.githubusercontent.com/AndroidInsight/myapi_files/main/20211031_101100.jpg",
-		"thumbnailUrl": "https://raw.githubusercontent.com/AndroidInsight/myapi_files/main/20211031_101100.jpg",
+		"thumbnailUrl": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_10.jpg",
 	       
 		"category": "Unknown"
 	     
@@ -21,7 +21,7 @@
 		"title": "random 2",
 		"author": "Unsplash",
 		"url": "https://raw.githubusercontent.com/AndroidInsight/myapi_files/main/20211118_135015.jpg",
-	        "thumbnailUrl": "https://raw.githubusercontent.com/AndroidInsight/myapi_files/main/20211118_135015.jpg",
+	        "thumbnailUrl": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_11.jpg",
 		"category": "Unknown"
 	}
 ]
